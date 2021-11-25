@@ -6,9 +6,9 @@
   <body style="background-color:white">
     <table cellspacing="20">
       <tr>
-        <td><img src="C:\Users\PC\Pictures\Camera Roll\Simpson.jpg" alt="I am happy"></td>
+        <td> Hi everyone!</td>
         <td><h1>Finally... I did it !!! Deployed using Jenkins, Ansible!!  </h1>
-        <p>THANK YOU AJAY, ROGER, ADAM AND ALL MY CLASSMATES;) </td>
+   
       </tr>
     </table>
 </body>
