@@ -7,6 +7,7 @@
     <table cellspacing="20">
       <tr>
         <td> Hi everyone!</td>
+        <td> ;))) </td>
         <td><h1>Finally... I did it !!! Deployed using Jenkins, Ansible!!  </h1>
    
       </tr>
